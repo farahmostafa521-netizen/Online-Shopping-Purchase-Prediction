@@ -1,4 +1,10 @@
 Online Shopping Purchase Prediction
+
+## Live Demo
+Try the application online:
+
+[Open Online Shopping Purchase Prediction](https://online-shopping-purchase-prediction-lq9tqhyldi5rpuumxkapeu.streamlit.app/)
+
 1. Project Overview
 This project uses Machine Learning to predict whether a visitor to an online shopping website is likely to make a purchase.
 The project is based on the Online Shoppers Purchasing Intention Dataset from the UCI Machine Learning Repository.
