@@ -134,4 +134,4 @@ This project demonstrates the use of Machine Learning classification techniques 
 Developed by: Farah mustafa
 
 
-           Developed by: Farah Mustaf
+           Developed by: Farah Mustafa
